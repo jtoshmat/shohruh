@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laravel 5.4 for Laravel Shift
 
 This repository contains the latest version of Laravel 5.4. It is used as a reference by [Laravel Shift - the automated way to upgrade Laravel applications](https://laravelshift.com).
@@ -38,3 +39,6 @@ Shifts for *PHP* include:
 - [PSR-2 - adopt the PSR-2 code style](https://laravelshift.com/upgrade-psr2-code-style-standard)
 - [PSR-4 - upgrade from PSR-0 to PSR-4](https://laravelshift.com/upgrade-namespace-psr0-psr4)
 - [Mysqli Shift - covert mysql to mysqli](https://laravelshift.com/upgrade-mysql-mysqli)
+=======
+# shohruh
+>>>>>>> 556934aaaf8d4168e6fc394c1ddc34ed861ee89f
